@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheFlute07
 - 👀 I’m interested in Web dev, Python and a lot of interesting things.
 - 🌱 I’m currently enhancing my Web dev level.
-- 💞️ I’m looking to collaborate on 👀
+- 💞️ I’m looking to collaborate on anything cool that I can help to develop.
 
 
 <!---
